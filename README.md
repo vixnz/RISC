@@ -9,7 +9,7 @@
  ## Application
 
  1. Make a clone of the repository
- 2. Execute the primary script with root access.
+ 2. Go to Install.md for further instructions.
  3. Comply with instructions for recovery or repair.
 
  ## Notice
